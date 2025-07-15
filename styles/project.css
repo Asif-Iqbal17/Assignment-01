@@ -62,7 +62,7 @@ main{
 }
 .action-description{
     font-size: 24px;
-    color: #252432;
+    color: #8a8892;
     color-scheme:50%;
     
 }
@@ -75,4 +75,40 @@ main{
 .action-written{
     
     
+}
+/* Join styles */
+.join-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    padding-top: 50px;
+}
+.joined-number{
+    font-size: 80px;
+    color: #4E47FF;
+    font-weight: bold;
+}
+.joined-text{
+    font-size: 20px;
+    color: #000000;
+}
+.join-numbers{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.join{
+    text-align: center;
+    
+}
+.join{
+    background-color: #dcdcf3 ;
+    border-radius: 10px;
+    
+    margin-top: 120px;
+    
+}
+.joined-padding{
+    margin: 50px 80px;
+
 }
