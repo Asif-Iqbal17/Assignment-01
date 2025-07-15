@@ -44,6 +44,7 @@ nav ul li{
 /* header */
 .header{
     background-image: url(../Assets/Hero-bg.png);
+    
 
 }
 /* main Style */
@@ -111,4 +112,58 @@ main{
 .joined-padding{
     margin: 50px 80px;
 
+}
+/* User-Style */
+.user-title{
+    font-size: 42px;
+    font-weight: bold;
+    gap: 50px;
+    text-align: center;
+    margin-top: 137px;
+}
+.review-title{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.review-details{
+    font-size: 17px;
+}
+.avatar{
+    display: flex;
+    
+    margin: 24px;
+    gap: 20px;
+}
+.avatar-name{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgba(20, 17, 17, 0.458);
+    
+
+}
+
+.avatar-date{
+    color: rgb(144, 140, 140);
+}
+.avatar-image{
+    border-radius: 50%;
+    width: 50px;
+}
+.review{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.review-written{
+    
+    margin: 24px;
+}
+.user{
+    border: 1px solid #F2EDED;
+    border-radius: 14px;
+}
+.star{
+    margin: 24px;
+    margin-right: 226px;
 }
