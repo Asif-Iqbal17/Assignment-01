@@ -38,12 +38,15 @@ nav ul li{
 }
 .banner{
     text-align: center;
-    margin: 309px 267px 152px 267px;
+    margin: 309px 267px 160px 267px;
     
 }
+
+
 /* header */
 .header{
     background-image: url(../Assets/Hero-bg.png);
+  
     
 
 }
@@ -167,3 +170,29 @@ main{
     margin: 24px;
     margin-right: 226px;
 }
+/* form Styles */
+.form-caption{
+    font-size: 97px;
+    font-weight: bold;
+}
+.form{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    margin-top: 92px;
+    
+}
+input[type="email"],input[type="text"],textarea{
+    font-size: 20px;
+    padding: 20px 271px 20px 32px;
+    background-color: #FFFFFF;
+    width: 50%;
+    display: block;
+}
+input[type="submit"]{
+    width: 105%;
+}
+    
+
+
+
