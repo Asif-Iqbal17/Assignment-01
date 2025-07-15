@@ -192,6 +192,26 @@ input[type="email"],input[type="text"],textarea{
 input[type="submit"]{
     width: 105%;
 }
+/* footer style */
+.footer-title{
+    color: #4E47FF;
+    font-size: 100px;
+    font-weight: bolder;
+}
+.footer-description{
+    color: #8a8892;
+
+}
+.footer-flex{
+    display: flex;
+    color: #8a8892 ;
+    justify-content: space-around;
+    gap: 48px;
+}
+footer{
+    text-align: center;
+    margin: 104px 455px 104px 455px;
+}
     
 
 
