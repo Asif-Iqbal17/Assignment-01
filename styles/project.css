@@ -46,3 +46,33 @@ nav ul li{
     background-image: url(../Assets/Hero-bg.png);
 
 }
+/* main Style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.radius{
+    border-radius: 42px;
+}
+/* Action */
+.action-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.action-description{
+    font-size: 24px;
+    color: #252432;
+    color-scheme:50%;
+    
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+.action-written{
+    
+    
+}
